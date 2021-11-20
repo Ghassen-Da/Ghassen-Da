@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" height="44px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="Java" height="44px" src="https://www.bitoo.fr/wp-content/uploads/2021/01/java-logo-300x300.jpg" />
+<img align="left" alt="Java" height="44px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 <img align="left" alt="HTML5" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 <img align="left" alt="React" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Nest" height="44px" src="https://docs.nestjs.com/assets/logo-small.svg" />
-<img align="left" alt="MySQL" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" height="44px" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" />
 <img align="left" alt="Postgres" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="MongoDB" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="elastic search" height="44px" src="https://lh3.googleusercontent.com/proxy/9xSSQ-fva71PE7FcQI7ZMNsvoDazqV81ceCRh_S1kJDh5t1W6rLTokbMEDk9iWYLEeoaehQ9HQwZoW8VPn4mhTCROY5yNmv6UsmjQsXH2khiH5Vw1RkeWAjsh9gJe2zgj8Nx" />
+<img align="left" alt="MongoDB" height="44px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
+<img align="left" alt="elastic search" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1280px-Elasticsearch_logo.svg.png" />
 <img align="left" alt="php" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" />
-<img align="left" alt="symfony" height="44px" src="https://symfony.com/images/opengraph/symfony.png" />
+<img align="left" alt="symfony" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Symfony2.svg/1200px-Symfony2.svg.png" />
 <br>
 <br>
 <br>
-<img align="left" alt="GraphQL" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="GraphQL" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
 <img align="left" alt="Linux" height="44px" src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/tux-327x360.png?itok=puszajU_" />
 <img align="left" alt="Python" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="jenkins" height="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
