@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-
 **Ghassen-Da/Ghassen-Da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-
-
-### Hi there, I'm Ghassen Daoud 👋 
+### Hi there, I'm Ghassen Daoud 👋
 
 ## I'm a Software engineering student, Tennisman, and Guitarist!!
 
@@ -63,7 +59,6 @@ Here are some ideas to get you started:
 <img align="left" alt="selenium" height="46px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
 <img align="left" alt="git" height="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-220px-Git-logo.svg.png" />
 
-
 <br />
 <br />
 <br />
@@ -72,8 +67,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
-" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [facebook]: https://www.facebook.com/ghassen.daoud.7
 [instagram]: https://www.instagram.com/ghassen__daoud/
