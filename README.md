@@ -64,7 +64,11 @@
 <br>
 <br>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,prs" />
+
+  <br>
+  <br>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghassen-Da&layout=compact&theme=tokyonight" />
 
 [facebook]: https://www.facebook.com/ghassen.daoud.7
 [instagram]: https://www.instagram.com/ghassen__daoud/
