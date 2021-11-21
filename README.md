@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate with big software companies
 - 🥅 2022 Goals: Launch my first startup
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="facebook" width="22px" src="https://findicons.com/files/icons/2830/clean_social_icons/250/facebook.png" />][facebook]
@@ -17,6 +19,7 @@
 [<img align="left" alt="instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
+<br>
 
 ### Languages and Frameworks:
 
@@ -61,7 +64,7 @@
 <br>
 <br>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=false" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ghassen-Da&count_private=true&show_icons=true&hide_border=false&theme=dark" />
 
 [facebook]: https://www.facebook.com/ghassen.daoud.7
 [instagram]: https://www.instagram.com/ghassen__daoud/
