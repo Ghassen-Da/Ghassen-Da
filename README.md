@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="facebook" width="30px" src="https://findicons.com/files/icons/2830/clean_social_icons/250/facebook.png" />][facebook]
-[<img align="left" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" alt="facebook" width="26px" src="https://findicons.com/files/icons/2830/clean_social_icons/250/facebook.png" />][facebook]
+[<img align="left" alt="linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
 <br>
