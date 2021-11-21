@@ -2,13 +2,13 @@
 
 ## I'm a Software engineering student
 
-- 🔭 I’m currently working as a partner software engineer in Endorsebase
-- 🌱 I’m currently learning AWS
-- 💬 Ask me about Mobile/Web development
+- 🔭 I’m currently working as a partner software engineer in Endorsebase.
+- 🌱 I’m currently learning AWS.
+- 💬 Ask me about Mobile/Web development.
 - 📫 How to reach me: ghassendaoud99@gmail.com
 - ⚡ Fun fact: I make the best fajitas!
-- 👯 I’m looking to collaborate with big software companies
-- 🥅 2022 Goals: Launch my first startup
+- 👯 I’m looking to collaborate with big software companies.
+- 🥅 2022 Goals: Launch my first startup.
 
 <br>
 
