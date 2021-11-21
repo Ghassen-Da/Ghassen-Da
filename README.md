@@ -68,7 +68,7 @@
 
   <br>
   <br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghassen-Da&layout=compact&theme=tokyonight" />
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghassen-Da&layout=compact&theme=tokyonight" /> -->
 
 [facebook]: https://www.facebook.com/ghassen.daoud.7
 [instagram]: https://www.instagram.com/ghassen__daoud/
