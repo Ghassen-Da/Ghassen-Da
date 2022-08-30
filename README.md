@@ -2,8 +2,8 @@
 
 ## I'm a Software engineering student
 
-- 🔭 I’m currently working as a partner software engineer in Endorsebase.
-- 🌱 I’m currently learning AWS.
+- 🌱 AWS solution architect.
+- 🔭 DevOps and Cloud expert.
 - 💬 Ask me about Mobile/Web development.
 - 📫 How to reach me: ghassendaoud99@gmail.com
 - ⚡ Fun fact: I make the best fajitas!
