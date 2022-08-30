@@ -2,7 +2,7 @@
 
 ## I'm a Software engineering student
 
-- 🌱 AWS solution architect.
+- 🌱 AWS solutions architect.
 - 🔭 DevOps and Cloud expert.
 - 💬 Ask me about Mobile/Web development.
 - 📫 How to reach me: ghassendaoud99@gmail.com
