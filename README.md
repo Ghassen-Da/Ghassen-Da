@@ -1,14 +1,12 @@
 ### Hi there, I'm Ghassen Daoud 👋
 
-## I'm a Software engineering student
+## I'm a Software engineer
 
-- 🌱 AWS solutions architect.
-- 🔭 DevOps and Cloud expert.
+- 🔭 DevOps and Cloud engineer.
+- 🌱 2+ years of work experience in AWS.
 - 💬 Ask me about Mobile/Web development.
 - 📫 How to reach me: ghassendaoud99@gmail.com
-- ⚡ Fun fact: I make the best fajitas!
-- 👯 I’m looking to collaborate with big software companies.
-- 🥅 2022 Goals: Launch my first startup.
+- ⚡ Fun fact: I make the best pizza!
 
 <br>
 
@@ -23,9 +21,7 @@
 
 ### Languages and Frameworks:
 
-<img align="left" alt="C" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C#" height="48px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="Java" height="48px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 <img align="left" alt="HTML5" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -47,8 +43,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="php" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" />
-<img align="left" alt="symfony" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Symfony2.svg/1200px-Symfony2.svg.png" />
+
 <img align="left" alt="GraphQL" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
 <img align="left" alt="Linux" height="48px" src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/tux-327x360.png?itok=puszajU_" />
 <img align="left" alt="Python" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
