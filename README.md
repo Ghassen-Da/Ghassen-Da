@@ -2,9 +2,11 @@
 
 ## I'm a Software engineer
 
-- 🔭 DevOps and Cloud engineer.
-- 🌱 2+ years of work experience in AWS.
+- 🔭 Full-stack, DevOps and Cloud engineer.
+- 🌱 2+ years of work experience.
 - 💬 Ask me about Mobile/Web development.
+- 💬 Ask me about automation and deployment.
+- 💬 Ask me about AWS.
 - 📫 How to reach me: ghassendaoud99@gmail.com
 - ⚡ Fun fact: I make the best pizza!
 
